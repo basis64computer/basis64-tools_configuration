@@ -1,0 +1,10 @@
+v0.2.0
+Server and UI update (Sabtu, 2 November 2024 - 19:00)
+- Penambahan server
+- Login dengan akun Google
+- Perbaikan UI
+- Perbaikan bug
+
+v0.1.0
+First Release
+

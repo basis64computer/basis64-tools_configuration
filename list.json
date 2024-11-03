@@ -1,0 +1,55 @@
+{
+	"list": [
+		{
+			"id": "example",
+			"title": "Example",
+			"description": "Ini adalah contoh peralatan Jerry.",
+      "category": "bahasa",
+			"thumbnail": "assets/img/thumbnail/trigonometri.jpg",
+			"destination": "example.html",
+			"creator": "Admin",
+			"creator_photo": "assets/img/admin.png",
+			"date": "16 Juli 2024 &middot 09:00 AM",
+			"badges": [
+				{
+					"title": "Example",
+					"color": "bg-dark"
+				}
+			]
+		},
+		{
+			"id": "translator-dayak-kenyah",
+			"title": "Translator Bahasa Dayak",
+			"description": "Penerjemah bahasa Dayak Kenyah v1.0",
+      			"category": "bahasa",
+			"thumbnail": "resources/translator-dayak-kenyah/thumbnail.jpg",
+			"destination": "translator.html",
+			"creator": "Admin",
+			"creator_photo": "assets/img/admin.png",
+			"date": "16 Juli 2024 &middot 09:00 AM",
+			"badges": [
+				{
+					"title": "Bahasa",
+					"color": "bg-warning"
+				}
+			]
+		},
+		{
+			"id": "statistic",
+			"title": "Statistik",
+			"description": "Kalkulator statistik",
+      			"category": "matematika",
+			"thumbnail": "assets/img/thumbnail/statistika.jpg",
+			"destination": "statistic.html",
+			"creator": "Admin",
+			"creator_photo": "assets/img/admin.png",
+			"date": "16 Juli 2024 &middot 09:00 AM",
+			"badges": [
+				{
+					"title": "Matematika",
+					"color": "bg-success"
+				}
+			]
+		}
+	]
+}
