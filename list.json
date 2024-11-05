@@ -51,5 +51,22 @@
 				}
 			]
 		}
+		{
+			"id": "trigonometry",
+			"title": "Trigonometri",
+			"description": "Kalkulator trigonometri",
+      			"category": "matematika",
+			"thumbnail": "assets/img/thumbnail/trigonometri.jpg",
+			"destination": "trigonometry.html",
+			"creator": "Admin",
+			"creator_photo": "assets/img/admin.png",
+			"date": "6 November 2024 &middot 07:40 AM",
+			"badges": [
+				{
+					"title": "Matematika",
+					"color": "bg-success"
+				}
+			]
+		}
 	]
 }
