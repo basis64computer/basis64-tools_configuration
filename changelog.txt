@@ -1,5 +1,10 @@
+v0.2.1
+Bug Fix and QRIS Update (Selasa, 12 November 2024 - 12:20)
+- Pembayaran dapat dilakukan melalui QRIS
+- Perbaikan bug
+
 v0.2.0
-Server and UI update (Sabtu, 2 November 2024 - 19:00)
+Server and UI Update (Sabtu, 2 November 2024 - 19:00)
 - Penambahan server
 - Login dengan akun Google
 - Perbaikan UI
