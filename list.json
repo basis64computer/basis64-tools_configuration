@@ -73,7 +73,7 @@
 			"title": "Fungsi Kuadrat",
 			"description": "Tidak dapat mengerjakan fungsi kuadrat? Ini solusinya dan dapat memberikan jawaban yang lengkap",
       			"category": "matematika",
-			"thumbnail": "resources/fungsi-kuadrat.jpg",
+			"thumbnail": "resources/fungsi-kuadrat/thumbnail.jpg",
 			"destination": "fungsi-kuadrat.html",
 			"creator": "Admin",
 			"creator_photo": "assets/img/admin.png",
