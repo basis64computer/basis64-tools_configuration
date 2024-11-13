@@ -67,6 +67,23 @@
 					"color": "bg-success"
 				}
 			]
+		},
+		{
+			"id": "fungsi-kuadrat",
+			"title": "Fungsi Kuadrat",
+			"description": "Tidak dapat mengerjakan fungsi kuadrat? Ini solusinya dan dapat memberikan jawaban yang lengkap",
+      			"category": "matematika",
+			"thumbnail": "resources/fungsi-kuadrat.jpg",
+			"destination": "fungsi-kuadrat.html",
+			"creator": "Admin",
+			"creator_photo": "assets/img/admin.png",
+			"date": "13 November 2024 &middot 02:22 PM",
+			"badges": [
+				{
+					"title": "Matematika",
+					"color": "bg-success"
+				}
+			]
 		}
 	]
 }
