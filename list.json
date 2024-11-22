@@ -91,7 +91,7 @@
 			"description": "Di sini kamu dapat melakukan cek khodam yang kamu miliki.",
       			"category": "matematika",
 			"thumbnail": "resources/cek-khodam/thumbnail.jpg",
-			"destination": "fungsi-kuadrat.html",
+			"destination": "cek-khodam.html",
 			"creator": "Admin",
 			"creator_photo": "assets/img/admin.png",
 			"date": "22 November 2024 &middot 10:20 PM",
