@@ -84,6 +84,23 @@
 					"color": "bg-success"
 				}
 			]
+		},
+		{
+			"id": "cek-khodam",
+			"title": "Cek Khodam",
+			"description": "Di sini kamu dapat melakukan cek khodam yang kamu miliki.",
+      			"category": "matematika",
+			"thumbnail": "resources/cek-khodam/thumbnail.jpg",
+			"destination": "fungsi-kuadrat.html",
+			"creator": "Admin",
+			"creator_photo": "assets/img/admin.png",
+			"date": "22 November 2024 &middot 10:20 PM",
+			"badges": [
+				{
+					"title": "Game",
+					"color": "bg-dark"
+				}
+			]
 		}
 	]
 }
