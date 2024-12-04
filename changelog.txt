@@ -1,5 +1,5 @@
 v0.2.2
-Update Translator Dayak Kenyah
+Update Translator Dayak Kenyah (Rabu, 4 Desember 2024 - 21:30)
 - Menambahkan fitur penerjemahan Bahasa Dayak Kenyah ke Bahasa Indonesia
 
 v0.2.1
