@@ -1,3 +1,7 @@
+v0.2.2
+Update Translator Dayak Kenyah
+- Menambahkan fitur penerjemahan Bahasa Dayak Kenyah ke Bahasa Indonesia
+
 v0.2.1
 Bug Fix and QRIS Update (Selasa, 12 November 2024 - 12:20)
 - Pembayaran dapat dilakukan melalui QRIS
