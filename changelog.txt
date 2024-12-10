@@ -1,3 +1,7 @@
+v0.2.2.1
+Perbaikan Bug (Selasa, 10 Desember 2024 - 08:40)
+- Perbaikan bug pada website
+
 v0.2.2
 Update Translator Dayak Kenyah (Rabu, 4 Desember 2024 - 21:30)
 - Menambahkan fitur penerjemahan Bahasa Dayak Kenyah ke Bahasa Indonesia
