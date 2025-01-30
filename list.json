@@ -1,23 +1,6 @@
 {
 	"list": [
 		{
-			"id": "example",
-			"title": "Example",
-			"description": "Ini adalah contoh peralatan Jerry.",
-      "category": "bahasa",
-			"thumbnail": "assets/img/thumbnail/trigonometri.jpg",
-			"destination": "example.html",
-			"creator": "Admin",
-			"creator_photo": "assets/img/admin.png",
-			"date": "16 Juli 2024 &middot 09:00 AM",
-			"badges": [
-				{
-					"title": "Example",
-					"color": "bg-dark"
-				}
-			]
-		},
-		{
 			"id": "translator-dayak-kenyah",
 			"title": "Translator Bahasa Dayak",
 			"description": "Penerjemah bahasa Dayak Kenyah v1.0",
@@ -31,57 +14,6 @@
 				{
 					"title": "Bahasa",
 					"color": "bg-warning"
-				}
-			]
-		},
-		{
-			"id": "statistic",
-			"title": "Statistik",
-			"description": "Kalkulator statistik",
-      			"category": "matematika",
-			"thumbnail": "assets/img/thumbnail/statistika.jpg",
-			"destination": "statistic.html",
-			"creator": "Admin",
-			"creator_photo": "assets/img/admin.png",
-			"date": "16 Juli 2024 &middot 09:00 AM",
-			"badges": [
-				{
-					"title": "Matematika",
-					"color": "bg-success"
-				}
-			]
-		},
-		{
-			"id": "trigonometry",
-			"title": "Trigonometri",
-			"description": "Kalkulator trigonometri",
-      			"category": "matematika",
-			"thumbnail": "assets/img/thumbnail/trigonometri.jpg",
-			"destination": "trigonometry.html",
-			"creator": "Admin",
-			"creator_photo": "assets/img/admin.png",
-			"date": "6 November 2024 &middot 07:40 AM",
-			"badges": [
-				{
-					"title": "Matematika",
-					"color": "bg-success"
-				}
-			]
-		},
-		{
-			"id": "fungsi-kuadrat",
-			"title": "Fungsi Kuadrat",
-			"description": "Tidak dapat mengerjakan fungsi kuadrat? Ini solusinya dan dapat memberikan jawaban yang lengkap",
-      			"category": "matematika",
-			"thumbnail": "resources/fungsi-kuadrat/thumbnail.jpg",
-			"destination": "fungsi-kuadrat.html",
-			"creator": "Admin",
-			"creator_photo": "assets/img/admin.png",
-			"date": "13 November 2024 &middot 02:22 PM",
-			"badges": [
-				{
-					"title": "Matematika",
-					"color": "bg-success"
 				}
 			]
 		},
