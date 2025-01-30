@@ -18,6 +18,23 @@
 			]
 		},
 		{
+			"id": "subnetting",
+			"title": "Kalkulator Subnet IP",
+			"description": "Gunakan kalkulator subnet IP ini untuk mempermudah dalam melakukan subnetting.",
+      			"category": "bahasa",
+			"thumbnail": "resources/subnetting/thumbnail.jpg",
+			"destination": "subnetting.html",
+			"creator": "Admin",
+			"creator_photo": "assets/img/admin.png",
+			"date": "30 Januari 2024 &middot 11:00 PM",
+			"badges": [
+				{
+					"title": "Komputer",
+					"color": "bg-danger"
+				}
+			]
+		},
+		{
 			"id": "cek-khodam",
 			"title": "Cek Khodam",
 			"description": "Di sini kamu dapat melakukan cek khodam yang kamu miliki.",
