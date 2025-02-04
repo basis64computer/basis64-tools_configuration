@@ -1,3 +1,8 @@
+v0.2.3.1
+AI Update (Kamis, 31 Januari 2025 - 23:00)
+- Penambahan AI DreamNIG image generator 
+- Perbaikan bug
+
 v0.2.2.4
 IP Subnet Calculator and UI Update (Kamis, 31 Januari 2025 - 23:00)
 - Penambahan kalkulator subnet IP
