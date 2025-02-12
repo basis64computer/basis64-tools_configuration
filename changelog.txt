@@ -1,3 +1,8 @@
+v0.2.3.3
+Translator Dayak Kenyah Update (Rabu, 12 Februari 2025 - 12:11)
+- Penambahan Fitur NLP pada translator Dayak Kenyah untuk meningkatkan akurasi
+- Fitur penerjemahan dari Dayak Kenyah ke bahasa Indonesia dihilangkan untuk sementara waktu
+
 v0.2.3.1
 AI Update (Selasa, 4 Februari 2025 - 21:00)
 - Penambahan AI DreamNIG image generator 
