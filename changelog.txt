@@ -1,3 +1,7 @@
+v0.2.3.4
+Perbaikan about.html (Jumat, 28 Februari 2025 - 22:15)
+- Perbaikan about.html
+
 v0.2.3.3
 Translator Dayak Kenyah Update (Rabu, 12 Februari 2025 - 12:11)
 - Penambahan Fitur NLP pada translator Dayak Kenyah untuk meningkatkan akurasi
