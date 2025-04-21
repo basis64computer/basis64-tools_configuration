@@ -1,3 +1,11 @@
+v0.2.4
+GUI and Translator Update (Senin, 21 April 2025 - 15:40)
+- Perubahan GUI menjadi lebih modern
+- Perbaikan signifikan pada penerjemah Dayak Kenyah berbasis NLP
+- Penerjemahan memungkinkan perubahan struktur kalimat dar "Saya berasal dari Kalimantan Timur" menjadi "Cen Kalimantan Timur te nei keq"
+- Penerjemahan tidak lagi menggunakan pernerjemahan per kata, tetapi lebih kompleks
+- Penambahan 300+ kosakata baru pada penerjemah Dayak Kenyah
+
 v0.2.3.4
 Perbaikan about.html (Jumat, 28 Februari 2025 - 22:15)
 - Perbaikan about.html
