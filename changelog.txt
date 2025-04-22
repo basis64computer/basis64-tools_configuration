@@ -1,3 +1,7 @@
+v0.2.4.1
+Account Recovery Update (Selasa, 22 April 2025 - 21:50)
+- Penambahan fitur pemulihan akun dengan OTP yang memungkinkan pengguna mengubah password jika lupa
+
 v0.2.4
 GUI and Translator Update (Senin, 21 April 2025 - 15:40)
 - Perubahan GUI menjadi lebih modern
