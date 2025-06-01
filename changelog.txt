@@ -1,3 +1,9 @@
+v0.2.5.6
+Dayak Kenyah Translator Update (Minggu, 1 Juni 2025 - 18:30)
+- Penambahan fitur penerjemah Dayak Kenyah ke Indonesia atau dua arah
+- Penambahan 10 kosakata pada dataset
+- Perbaikan bug
+
 v0.2.5
 UI and Administrator Update (Rabu, 21 Mei 2025 - 15:40)
 - Migrasi dari template Bootstrap ke framework Tailwind
@@ -51,11 +57,14 @@ Bug Fix and QRIS Update (Selasa, 12 November 2024 - 12:20)
 
 v0.2.0
 Server and UI Update (Sabtu, 2 November 2024 - 19:00)
-- Penambahan server
+- Penambahan fitur back-end atau server-side
+- Enkripsi end-to-end antara pengguna dengan server, dengan menggunakan RSA dan AES
+- Tidak menggunakan JSONBin
 - Login dengan akun Google
 - Perbaikan UI
 - Perbaikan bug
 
 v0.1.0
 First Release
+- Menggunakan JSONBin untuk menyimpan database pengguna
 
